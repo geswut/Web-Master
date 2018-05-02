@@ -1,0 +1,32 @@
+body {
+    background-color: White;
+}
+
+a {
+  text-decoration: none;
+}
+ul.inline li {
+  display: block;
+  Padding: 5px;
+  margin: 2px 0;
+  Float: right;
+  padding: 2px
+  border: 3px 0;
+
+
+}
+
+button.clear {
+    color: Red;
+}
+
+table {
+    display: block;
+}
+
+ul.inline li:hover {
+  background-color: gray;
+  color: white;
+  font-size: 30px;
+
+}
